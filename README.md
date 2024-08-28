@@ -29,7 +29,7 @@
   <img width="12" />
  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fmongodb-3521676&psig=AOvVaw2H1EBaU2exrqnquusevXNZ&ust=1724958718426000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCmyI2ymIgDFQAAAAAdAAAAABAP" height="30" alt="django logo"  />
   <img width="12" />
   
 </div>
