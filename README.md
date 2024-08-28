@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
-  <img src="https://images.app.goo.gl/LnJVvcoLWVd1b3n18" height="30" alt="mongodb logo"  />
+  
   <img width="12" />
  
   <img width="12" />
