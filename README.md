@@ -41,6 +41,8 @@
   <img width="12" />
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" />
   <img width="12" />
+   <img src="[https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png)" height="30" />
+  <img width="12" />
 </div>
 
 ###
