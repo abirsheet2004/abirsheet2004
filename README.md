@@ -39,6 +39,8 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" height="30" />
   <img width="12" />
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" />
+  <img width="12" />
 </div>
 
 ###
