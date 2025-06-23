@@ -29,7 +29,7 @@
   <img width="12" />
  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="django logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq25B8BSZZOXomcnIxfJOMbxRqSPxgT53hXw&s" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" />
   <img width="12" />
