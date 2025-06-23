@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" height="30" />
+  <img width="12" />
 </div>
 
 ###
